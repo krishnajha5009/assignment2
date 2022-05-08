@@ -1,0 +1,57 @@
+.container {
+    border: 1px black solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 120px;
+}
+
+.logo {
+    height: 240px;
+    width: 240px;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.menu {
+    font-family: Monotype Corsiva;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+}
+
+.images-list {
+    text-align: center;
+}
+
+.images-list img {
+    height: 160px;
+    width: 210px;
+}
+
+.border {
+    border: 1px blue solid;
+    border-radius: 10px;
+}
+
+/* Contact Us Page */
+.contact-header {
+    color: green;
+    font-family: 'Times New Roman';
+    font-size: 20pt;
+    font-weight: normal;
+}
+
+/* About Us Page */
+.about-header {
+    color: gray;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: normal;
+}
